@@ -10,16 +10,8 @@
 Sou um estudante de Ciência da Computação apaixonado por tecnologia, com interesse nas áreas de <strong>Quality Assurance (QA) e Desenvolvimento Web</strong>. Como um <strong>Indie Hacker</strong>, gosto de criar e entregar softwares de qualidade que geram impacto real.
 </p>
 
-<p align="justify">
-Já atuei no desenvolvimento de sistemas com <strong>PHP e Laravel</strong> e também tenho experiência com investigação digital (OSINT). Atualmente, estou explorando como a <strong>Inteligência Artificial</strong> pode otimizar meu fluxo de trabalho, desde a geração de código até a documentação.
-</p>
-
-<p align="justify">
-Acredito no poder da comunidade, por isso estou documentando minha jornada de forma transparente. A ideia é transformar cada desafio em aprendizado e crescer junto com outros devs. <strong>#BuildInPublic</strong>
-</p>
-
 ## 🚀 Tecnologias e Ferramentas
-<p>Aqui estão algumas das tecnologias com as quais trabalho:</p>
+
 <div style="display: inline_block"><br>
   <p align="center">
     <img src="https://cdn.simpleicons.org/php/777BB4" width="40" title="PHP" style="margin: 10px;"/>
@@ -55,10 +47,8 @@ Acredito no poder da comunidade, por isso estou documentando minha jornada de fo
 
 ## 📫 Conecte-se comigo
 <p>Vamos conversar e trocar ideias!</p>
-
-<a href="mailto:kaikiramoshirata@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://linkedin.com/in/kaiki-yuuji" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align=center>
+<a href="https://www.linkedin.com/in/kaiki-yuuji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:kaikiramoshirata@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://discord.com/users/kopikyu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</p>
