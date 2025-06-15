@@ -1,40 +1,53 @@
-<h1>
+<img align="right" height="210" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajN2eWEyaWl4cmhod3MydXl5MHg1MGtmcmFlN3RrMGhlOTlkZ2NwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0EoBBFIUg5t8kKw8/giphy.gif"  />
+
+###
+
+<h1 align="left">
   <a href="https://github.com/kaikiyuuji">
-    <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" style="position: relative; top: 3px; vertical-align: middle;"/>
   </a>
-  <span> Olá! Eu sou o Kaiki Yuuji, seja bem-vindo(a)!</span>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&duration=2500&pause=1000&color=F7F7F7&vCenter=true&width=435&height=25&lines=Ol%C3%A1!+Eu+sou+o+Kaiki+Yuuji!" alt="Typing SVG" /></a>
 </h1>
 
-## 👨‍💻 Sobre Mim
-<p align="justify">
-Sou um estudante de Ciência da Computação apaixonado por tecnologia, com interesse nas áreas de <strong>Quality Assurance (QA) e Desenvolvimento Web</strong>. Como um <strong>Indie Hacker</strong>, gosto de criar e entregar softwares de qualidade que geram impacto real.
-</p>
+###
+
+<p align="left"> 👨‍💻 Estudante de Ciência da Computação apaixonado por tecnologia, com interesse nas áreas de <strong>Quality Assurance (QA) e Desenvolvimento Web</strong>.</p>
+
+###
+
+<br clear="both">
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <p align="center">
-    <img src="https://cdn.simpleicons.org/php/777BB4" width="40" title="PHP" style="margin: 10px;"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" title="Laravel" style="margin: 10px;"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" title="JavaScript" style="margin: 10px;"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/node.js/339933" width="40" title="Node.js" style="margin: 10px;"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" title="Docker" style="margin: 10px;"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" title="HTML5" style="margin: 10px;"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" title="CSS3" style="margin: 10px;"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" title="React" style="margin: 10px;"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" title="TypeScript" style="margin: 10px;"/>
-  </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaikiyuuji/kaikiyuuji/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaikiyuuji/kaikiyuuji/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaikiyuuji/kaikiyuuji/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -47,8 +60,14 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia, com inte
 
 ## 📫 Conecte-se comigo
 <p>Vamos conversar e trocar ideias!</p>
-<p align=center>
-<a href="https://www.linkedin.com/in/kaiki-yuuji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:kaikiramoshirata@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://discord.com/users/kopikyu" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaiki-yuuji/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/euhirata" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="70" height="50" alt="twitter logo"  />
+  </a>
+  <a href="mailto:kaikiramoshirata@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="50" alt="gmail logo"  />
+  </a>
+</div>
