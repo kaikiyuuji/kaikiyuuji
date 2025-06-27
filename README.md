@@ -57,8 +57,8 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <a href="https://github.com/kaikiyuuji">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaikiyuuji&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikiyuuji&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaikiyuuji&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikiyuuji&theme=dark&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 ## 📫 Conecte-se comigo
