@@ -11,19 +11,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
+          token: ${{ secrets.ACCESS_TOKEN }}
           fetch-depth: 1
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
       - name: Configure pip cache
-        uses: actions/cache@v3
+        uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/cache/requirements.txt') }}
@@ -40,9 +43,12 @@ jobs:
         run: python today.py
 
       - name: Commit and push changes
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add dark_mode.svg light_mode.svg cache/
           git commit -m "Update profile README statistics" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${ACCESS_TOKEN}@github.com/${{ github.repository }}.git
           git push
