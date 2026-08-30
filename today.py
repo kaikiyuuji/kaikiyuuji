@@ -24,8 +24,7 @@ QUERY_COUNT = {
 
 def get_birthday():
     """
-    Returns birthdate from environment variable 'BIRTHDAY' (YYYY-MM-DD)
-    or default date if not provided.
+    Returns birthdate (2004-10-12) or from environment variable 'BIRTHDAY' (YYYY-MM-DD)
     """
     env_date = os.environ.get('BIRTHDAY')
     if env_date:
@@ -34,8 +33,7 @@ def get_birthday():
             return datetime.datetime(parts[0], parts[1], parts[2])
         except Exception:
             pass
-    # Default birthdate: edit as needed (Year, Month, Day)
-    return datetime.datetime(2002, 1, 1)
+    return datetime.datetime(2004, 10, 12)
 
 
 def daily_readme(birthday):
@@ -326,15 +324,15 @@ def query_count(funct_id):
 def svg_overwrite(filename, age_data, commit_data, star_data, repo_data, contrib_data, follower_data, loc_data):
     tree = etree.parse(filename)
     root = tree.getroot()
-    justify_format(root, 'age_data', age_data, 50)
-    justify_format(root, 'commit_data', commit_data, 23)
-    justify_format(root, 'star_data', star_data, 16)
-    justify_format(root, 'repo_data', repo_data, 7)
+    justify_format(root, 'age_data', age_data, 22)
+    justify_format(root, 'commit_data', commit_data, 22)
+    justify_format(root, 'star_data', star_data, 14)
+    justify_format(root, 'repo_data', repo_data, 6)
     justify_format(root, 'contrib_data', contrib_data)
-    justify_format(root, 'follower_data', follower_data, 12)
-    justify_format(root, 'loc_data', loc_data[2], 10)
+    justify_format(root, 'follower_data', follower_data, 10)
+    justify_format(root, 'loc_data', loc_data[2], 9)
     justify_format(root, 'loc_add', loc_data[0])
-    justify_format(root, 'loc_del', loc_data[1], 8)
+    justify_format(root, 'loc_del', loc_data[1], 1)
     tree.write(filename, encoding='utf-8', xml_declaration=True)
 
 
@@ -343,14 +341,13 @@ def justify_format(root, element_id, new_text, length=0):
         new_text = f"{'{:,}'.format(new_text)}"
     new_text = str(new_text)
     find_and_replace(root, element_id, new_text)
-    if length > 0:
-        just_len = max(0, length - len(new_text))
-        if just_len <= 2:
-            dot_map = {0: '', 1: ' ', 2: '. '}
-            dot_string = dot_map[just_len]
-        else:
-            dot_string = ' ' + ('.' * (just_len - 2)) + ' '
-        find_and_replace(root, f"{element_id}_dots", dot_string)
+    just_len = max(0, length - len(new_text))
+    if just_len <= 2:
+        dot_map = {0: '', 1: ' ', 2: '. '}
+        dot_string = dot_map[just_len]
+    else:
+        dot_string = ' ' + ('.' * just_len) + ' '
+    find_and_replace(root, f"{element_id}_dots", dot_string)
 
 
 def find_and_replace(root, element_id, new_text):
@@ -369,8 +366,7 @@ if __name__ == '__main__':
         svg_overwrite('light_mode.svg', age_data, 0, 0, 0, 0, 0, ['0', '0', '0'])
         print("Dry run completed successfully. SVGs updated with default stats.")
     else:
-        user_data, user_time = user_getter(USER_NAME)
-        OWNER_ID, acc_date = user_data
+        OWNER_ID, acc_date = user_getter(USER_NAME)
         age_data = daily_readme(get_birthday())
         total_loc = loc_query(['OWNER', 'COLLABORATOR', 'ORGANIZATION_MEMBER'], 1)
         commit_data = commit_counter(1)
