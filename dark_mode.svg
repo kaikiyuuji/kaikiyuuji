@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii">
+<tspan x="15" y="30">            /\_/\                   </tspan>
+<tspan x="15" y="50">           ( o.o )                  </tspan>
+<tspan x="15" y="70">            &gt; ^ &lt;                   </tspan>
+<tspan x="15" y="90">   .-----------------------.        </tspan>
+<tspan x="15" y="110">  /  ____________________   \       </tspan>
+<tspan x="15" y="130"> |  /                    \   |      </tspan>
+<tspan x="15" y="150"> | |   KAIKI YUUJI        |  |      </tspan>
+<tspan x="15" y="170"> | |   QA &amp; WEB DEV       |  |      </tspan>
+<tspan x="15" y="190"> | |                      |  |      </tspan>
+<tspan x="15" y="210"> | |  &gt; PHP / JS / TS     |  |      </tspan>
+<tspan x="15" y="230"> | |  &gt; Computer Science  |  |      </tspan>
+<tspan x="15" y="250"> |  \____________________/   |      </tspan>
+<tspan x="15" y="270">  \_________________________/       </tspan>
+<tspan x="15" y="290">         |__________|               </tspan>
+<tspan x="15" y="310">     ___________________            </tspan>
+<tspan x="15" y="330">    /                   \           </tspan>
+<tspan x="15" y="350">   /   [==] [==] [==]    \          </tspan>
+<tspan x="15" y="370">  /   _________________   \         </tspan>
+<tspan x="15" y="390"> /   /                 \   \        </tspan>
+<tspan x="15" y="410">/___/___________________\___\       </tspan>
+<tspan x="15" y="430">\___________________________/       </tspan>
+<tspan x="15" y="450">    \___________________/           </tspan>
+<tspan x="15" y="470">       (_____________)              </tspan>
+<tspan x="15" y="490">        \___________/               </tspan>
+<tspan x="15" y="510">                                    </tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">kaiki@yuuji</tspan> -———————————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Windows 11, Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">24 years, 7 months, 29 days</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Ciência da Computação</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">QA Tester &amp; Web Developer</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">VSCode, PhpStorm</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">PHP, JS, TS, Python</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">HTML, CSS, SQL, Docker, Git</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Português, English</tspan>
+<tspan x="390" y="230" class="cc">. </tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">Web Dev, Open Source, Automation</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">PC Building, Tech Gear</tspan>
+<tspan x="390" y="310">- Contact -——————————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">kaikiramoshirata@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">kaiki-yuuji</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Twitter/X</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">euhirata</tspan>
+<tspan x="390" y="410" fill="#c9d1d9">- GitHub Stats -—————————————————————————————————————————-—-</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .... </tspan><tspan class="value" id="repo_data">0</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">0</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc" id="star_data_dots"> ............. </tspan><tspan class="value" id="star_data">0</tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> .................... </tspan><tspan class="value" id="commit_data">0</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc" id="follower_data_dots"> ......... </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc" id="loc_data_dots"> ....... </tspan><tspan class="value" id="loc_data">0</tspan> ( <tspan class="addColor" id="loc_add">0</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"> ..... </tspan><tspan class="delColor" id="loc_del">0</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>
