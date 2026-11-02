@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · kaikiyuuji</sub></p>
 <h1>Kaiki Hirata</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>Full-stack Engineer</h2>
 <p>Estudante de Ciência da Computação focado em QA e Dev Web. Indie Hacker com experiência em PHP e Laravel, construindo soluções de qualidade.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 <p><sub>Based in Belém, PA</sub></p>
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · TypeScript · Blade</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Full-stack Engineer · PHP · TypeScript · Blade</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>18 repositories · 9 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>184 contributions · 21 active days</p></td>
 </tr>
