@@ -55,9 +55,15 @@
 ---
 
 ## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img alt="Contribuições no último ano, incluindo contribuições privadas anônimas exibidas no perfil" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub-contributions-api.jogruber.de%2Fv4%2Fkaikiyuuji%3Fy%3Dlast&amp;query=%24.total.lastYear&amp;label=Contribui%C3%A7%C3%B5es%20no%20%C3%BAltimo%20ano&amp;color=2ea44f&amp;cacheSeconds=300" />
+  <br />
+  <sub>Contribuições no último ano incluem atividade privada anônima. Os cartões abaixo mostram dados públicos.</sub>
+</div>
 <div align="center">
   <a href="https://github.com/kaikiyuuji">
-    <img height="180" alt="Estatísticas do GitHub de Kaiki" src="https://github-stats-extended.vercel.app/api?username=kaikiyuuji&amp;theme=dark&amp;show_icons=true&amp;hide_border=false&amp;count_private=true" />
+    <img height="180" alt="Estatísticas do GitHub de Kaiki" src="https://github-stats-extended.vercel.app/api?username=kaikiyuuji&amp;theme=dark&amp;show_icons=true&amp;hide_border=false" />
     <img height="180" alt="Linguagens mais usadas por Kaiki" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kaikiyuuji&amp;theme=dark&amp;show_icons=true&amp;hide_border=false&amp;layout=compact" />
   </a>
 </div>
